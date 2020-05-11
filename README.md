@@ -1,8 +1,11 @@
 <h1 align="center">
   💻 Aplicação clone da interface do Airbnb 
-     O objetivo é clonar a lista de locações do Airbnb para fins de estudo.
+     
 </h1>
-
+<h3>
+  O objetivo é clonar a lista de locações do Airbnb para fins de estudo.
+</h3>
+ 
 ## Techs
 
 - HTML: Estrutura
